@@ -34,7 +34,7 @@ while True and attempt>=0:
     else:
         attempt=attempt-1
         print(f'u have {attempt} attempt left in the list')
-        print('u have enter the wrong command  try to be enter the right command')
+        print('u have enter the wrong command  try to be enter the right command ,please')
         
 if attempt==0:
     print('u have  exit the program')
