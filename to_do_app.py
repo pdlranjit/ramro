@@ -37,7 +37,7 @@ while True and attempt>=0:
         print('u have enter the wrong command  try to be enter the right command ,please')
         
 if attempt==0:
-    print('u have  exit the program')
+    print('u have  exit the program ,now u can do whatever u want to this program ')
 else:
     print('u are trying to do some projects')
         
